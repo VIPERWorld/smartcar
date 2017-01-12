@@ -1,2 +1,2 @@
 # smartcar
-SmartCar
+Hebut Freescale Smart Car 
